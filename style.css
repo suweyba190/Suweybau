@@ -158,7 +158,7 @@ h3{
 
 }
 .global-col img{
-    width: 200%;
+    width: 80%;
 }
 .layer{
     background:transparent;
@@ -181,11 +181,48 @@ h3{
     left: 50%;
     transform: translateX(-50%);
     position: absolute;
+    transition: 0.5s;
+}
+.layer:hover h3{
+    bottom: 49%;
+    opacity: 1;
+}
+/*----facilities*/
+.facilities{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.facilities-col{
+    flex: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.facilities-col img{
+    width: 80%;
+    border: 10px;
+}
+.facilities-col p{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
 }
 
-
-
-
+/*----testimonial*/
+.testimonials{
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+}
+.testimonials-col{
+    flex-basis: 44%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
 
 
 
