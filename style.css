@@ -308,3 +308,28 @@ h3{
 .red-btn{
     color: #fff;
 }
+.subdiv-header{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/team.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.subdiv-header H1{
+    margin-bottom: 100px;
+    color: #fff;
+}
+.team-colo{
+    flex-basis: 31% ;
+    background: aquamarine;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+.team-colo:hover{
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+}
+
