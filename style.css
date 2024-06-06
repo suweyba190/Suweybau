@@ -332,4 +332,27 @@ h3{
 .team-colo:hover{
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
 }
+/*----blog-content-- */
+.blog-content{
+    width:80%;
+    margin: auto;
+    padding: 60px 0;
+    color: #000;
+}
+.blog-left{
+   flex-basis: 65%;   
+}
+.blog-left img{
+    width: 100%;
+}
+.blog-left h2{
+    color: #222;
+    font-weight: 600;
+    margin: 30px 0;
 
+}
+.blog-left p{
+    padding: 0;
+    color: wheat;
+    text-align: center;
+}
