@@ -337,7 +337,7 @@ h3{
     width:80%;
     margin: auto;
     padding: 60px 0;
-    color: #000;
+    color: #8d1a1a;
 }
 .blog-left{
    flex-basis: 65%;   
@@ -356,3 +356,21 @@ h3{
     color: wheat;
     text-align: center;
 }
+.comment-box{
+    border: 1px solid #ccc;
+    margin: 50px 0;
+    padding: 10px 20px;
+}
+.comment-box h3{
+    text-align: left;
+}
+.comment-form input, .comment-form textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 15px 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    background: #f0f0f0;
+}
+/*----Contact page */
