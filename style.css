@@ -388,6 +388,18 @@ h3{
     margin: auto;
 }
 .contact-col{
-    
+    flex-basis: 48%;
+    margin-bottom: 30pxs;
 
+}
+.contact-col div{
+    display: flex;
+    align-items: center;
+}
+.contact-col input, .contact-col textarea{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 1px solid #ccc;
 }
