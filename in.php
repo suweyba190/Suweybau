@@ -87,4 +87,24 @@
     print '<br>'; //Using HTML to break  a line
     
     
+    //Variable Characteristics
+    
+    $lname = 'Okama'; // $lname >< $Lname
+    
+    print "His last name is $lname";
   
+    print '<br>'; //Using HTML to break  a line
+    
+    print 'His last name is ' . $lname;
+    
+    print '<br>'; //Using HTML to break  a line
+    
+    $pers['lname'] = "Okama";
+    print $pers['lname'];
+    
+    print '<br>'; //Using HTML to break  a line
+    define('lname', 'Okama');
+    print lname;
+
+
+    ?>
