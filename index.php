@@ -9,12 +9,21 @@
     
 </head>
 <body>
-   
     
     <section class="header">
         <nav>
-            <a href="index.html"><img src="images/logo.jpg"></a>
-            
+            <a href="index.php"><img src="images/logo.jpg"></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="project.php">Project</a></li>
+                    <li><a href="solution.php">Solution</a></li>
+                    <li><a href="team.php">Team</a></li>
+                    <li><a href="blog.php">Blog</a></li>
+                </ul>
+            </div>
             <div class="nav-button">
                 <button class="btn" id="loginBtn">Sign In</button>
                 <button class="btn" id="registerBtn">Sign up</button>
@@ -82,6 +91,8 @@
 
     </div>
 </section>
+</body>
+</html>
 <section class="facilities">
     <h1>Our facilities</h1>
     <p>The facilities of a green tech company typically align with its mission to promote sustainability and reduce environmental impact. Here are some common facilities and features you might find in a green tech company:</p>

@@ -19,13 +19,13 @@
 
 
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                    <li><a href="project.html">Project</a></li>
-                    <li><a href="solution.html">Solution</a></li>
-                    <li><a href="team.html">Team</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
+                    <li><a href="project.php">Project</a></li>
+                    <li><a href="solution.php">Solution</a></li>
+                    <li><a href="team.php">Team</a></li>
+                    <li><a href="blog.php">Blog</a></li>
 
                 </ul>
             </div>
