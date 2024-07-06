@@ -9,6 +9,7 @@
     
 </head>
 <body>
+   
     
     <section class="header">
         <nav>
@@ -81,8 +82,6 @@
 
     </div>
 </section>
-</body>
-</html>
 <section class="facilities">
     <h1>Our facilities</h1>
     <p>The facilities of a green tech company typically align with its mission to promote sustainability and reduce environmental impact. Here are some common facilities and features you might find in a green tech company:</p>
