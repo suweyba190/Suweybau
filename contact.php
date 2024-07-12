@@ -1,3 +1,4 @@
+<?php require_once("includes/db_connect.php");?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,6 +30,7 @@
 
                 </ul>
             </div>
+            
             <i class="fa fa-bars"></i>
         </nav>
        <h1>CONTACT US</h1>

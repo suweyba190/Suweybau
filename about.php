@@ -1,3 +1,4 @@
+<?php require_once("includes/db_connect.php");?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,10 +22,11 @@
                     <li><a href="project.php">Project</a></li>
                     <li><a href="solution.php">Solution</a></li>
                     <li><a href="team.php">Team</a></li>
-                    <li><a href="blog.php">Blog</a></li>
+                    <li><a href="blog.html">Blog</a></li>
 
                 </ul>
             </div>
+            
             <i class="fa fa-bars"></i>
         </nav>
        <h1>ABOUT US</h1>

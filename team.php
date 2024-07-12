@@ -1,3 +1,4 @@
+<?php require_once("includes/db_connect.php");?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,6 +26,7 @@
                     <li><a href="blog.php">Blog</a></li>
 
                 </ul>
+                
             </div>
         </nav>
        <h1> TEAMS FOR GREEN TECH</h1>
